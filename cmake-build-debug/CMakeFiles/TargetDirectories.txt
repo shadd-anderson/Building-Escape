@@ -1,0 +1,11 @@
+C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/cmake-build-debug/CMakeFiles/BuildingEscapeEditor-Development-CLEAN.dir
+C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/cmake-build-debug/CMakeFiles/BuildingEscapeEditor-Development.dir
+C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/cmake-build-debug/CMakeFiles/UE4Editor-Development.dir
+C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/cmake-build-debug/CMakeFiles/UE4Game-Development.dir
+C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/cmake-build-debug/CMakeFiles/UE4Editor-Development-CLEAN.dir
+C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/cmake-build-debug/CMakeFiles/BuildingEscape-Development-CLEAN.dir
+C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/cmake-build-debug/CMakeFiles/UE4Game-Development-CLEAN.dir
+C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/cmake-build-debug/CMakeFiles/BuildingEscape-Development.dir
+C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/cmake-build-debug/CMakeFiles/PleaseIgnoreMe.dir
+C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/cmake-build-debug/CMakeFiles/edit_cache.dir
