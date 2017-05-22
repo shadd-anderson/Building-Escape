@@ -361,6 +361,33 @@ Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.s:
 	$(MAKE) -f CMakeFiles\PleaseIgnoreMe.dir\build.make CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.s
 .PHONY : Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.s
 
+Source/BuildingEscape/PositionReporter.obj: Source/BuildingEscape/PositionReporter.cpp.obj
+
+.PHONY : Source/BuildingEscape/PositionReporter.obj
+
+# target to build an object file
+Source/BuildingEscape/PositionReporter.cpp.obj:
+	$(MAKE) -f CMakeFiles\PleaseIgnoreMe.dir\build.make CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.obj
+.PHONY : Source/BuildingEscape/PositionReporter.cpp.obj
+
+Source/BuildingEscape/PositionReporter.i: Source/BuildingEscape/PositionReporter.cpp.i
+
+.PHONY : Source/BuildingEscape/PositionReporter.i
+
+# target to preprocess a source file
+Source/BuildingEscape/PositionReporter.cpp.i:
+	$(MAKE) -f CMakeFiles\PleaseIgnoreMe.dir\build.make CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.i
+.PHONY : Source/BuildingEscape/PositionReporter.cpp.i
+
+Source/BuildingEscape/PositionReporter.s: Source/BuildingEscape/PositionReporter.cpp.s
+
+.PHONY : Source/BuildingEscape/PositionReporter.s
+
+# target to generate assembly for a file
+Source/BuildingEscape/PositionReporter.cpp.s:
+	$(MAKE) -f CMakeFiles\PleaseIgnoreMe.dir\build.make CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.s
+.PHONY : Source/BuildingEscape/PositionReporter.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -393,6 +420,9 @@ help:
 	@echo ... Source/BuildingEscape/BuildingEscapeGameModeBase.obj
 	@echo ... Source/BuildingEscape/BuildingEscapeGameModeBase.i
 	@echo ... Source/BuildingEscape/BuildingEscapeGameModeBase.s
+	@echo ... Source/BuildingEscape/PositionReporter.obj
+	@echo ... Source/BuildingEscape/PositionReporter.i
+	@echo ... Source/BuildingEscape/PositionReporter.s
 .PHONY : help
 
 

@@ -60,15 +60,15 @@ CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionS
 CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSettings.cpp.obj: CMakeFiles/PleaseIgnoreMe.dir/includes_CXX.rsp
 CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSettings.cpp.obj: ../Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSettings.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSettings.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PleaseIgnoreMe.dir\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSettings.cpp.obj -c C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSettings.cpp
+	C:\MinGW\bin\mingw32-gcc.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PleaseIgnoreMe.dir\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSettings.cpp.obj -c C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSettings.cpp
 
 CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSettings.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSettings.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSettings.cpp > CMakeFiles\PleaseIgnoreMe.dir\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSettings.cpp.i
+	C:\MinGW\bin\mingw32-gcc.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSettings.cpp > CMakeFiles\PleaseIgnoreMe.dir\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSettings.cpp.i
 
 CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSettings.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSettings.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSettings.cpp -o CMakeFiles\PleaseIgnoreMe.dir\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSettings.cpp.s
+	C:\MinGW\bin\mingw32-gcc.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSettings.cpp -o CMakeFiles\PleaseIgnoreMe.dir\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSettings.cpp.s
 
 CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSettings.cpp.obj.requires:
 
@@ -85,15 +85,15 @@ CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionS
 CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessModule.cpp.obj: CMakeFiles/PleaseIgnoreMe.dir/includes_CXX.rsp
 CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessModule.cpp.obj: ../Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessModule.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessModule.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PleaseIgnoreMe.dir\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessModule.cpp.obj -c C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessModule.cpp
+	C:\MinGW\bin\mingw32-gcc.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PleaseIgnoreMe.dir\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessModule.cpp.obj -c C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessModule.cpp
 
 CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessModule.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessModule.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessModule.cpp > CMakeFiles\PleaseIgnoreMe.dir\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessModule.cpp.i
+	C:\MinGW\bin\mingw32-gcc.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessModule.cpp > CMakeFiles\PleaseIgnoreMe.dir\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessModule.cpp.i
 
 CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessModule.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessModule.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessModule.cpp -o CMakeFiles\PleaseIgnoreMe.dir\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessModule.cpp.s
+	C:\MinGW\bin\mingw32-gcc.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessModule.cpp -o CMakeFiles\PleaseIgnoreMe.dir\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessModule.cpp.s
 
 CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessModule.cpp.obj.requires:
 
@@ -110,15 +110,15 @@ CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionS
 CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.cpp.obj: CMakeFiles/PleaseIgnoreMe.dir/includes_CXX.rsp
 CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.cpp.obj: ../Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PleaseIgnoreMe.dir\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessor.cpp.obj -c C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessor.cpp
+	C:\MinGW\bin\mingw32-gcc.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PleaseIgnoreMe.dir\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessor.cpp.obj -c C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessor.cpp
 
 CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessor.cpp > CMakeFiles\PleaseIgnoreMe.dir\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessor.cpp.i
+	C:\MinGW\bin\mingw32-gcc.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessor.cpp > CMakeFiles\PleaseIgnoreMe.dir\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessor.cpp.i
 
 CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessor.cpp -o CMakeFiles\PleaseIgnoreMe.dir\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessor.cpp.s
+	C:\MinGW\bin\mingw32-gcc.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessor.cpp -o CMakeFiles\PleaseIgnoreMe.dir\Plugins\CLionSourceCodeAccess-master\Source\CLionSourceCodeAccess\Private\CLionSourceCodeAccessor.cpp.s
 
 CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.cpp.obj.requires:
 
@@ -135,15 +135,15 @@ CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscape.cpp.obj: CMak
 CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscape.cpp.obj: CMakeFiles/PleaseIgnoreMe.dir/includes_CXX.rsp
 CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscape.cpp.obj: ../Source/BuildingEscape/BuildingEscape.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscape.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PleaseIgnoreMe.dir\Source\BuildingEscape\BuildingEscape.cpp.obj -c C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Source\BuildingEscape\BuildingEscape.cpp
+	C:\MinGW\bin\mingw32-gcc.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PleaseIgnoreMe.dir\Source\BuildingEscape\BuildingEscape.cpp.obj -c C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Source\BuildingEscape\BuildingEscape.cpp
 
 CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscape.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscape.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Source\BuildingEscape\BuildingEscape.cpp > CMakeFiles\PleaseIgnoreMe.dir\Source\BuildingEscape\BuildingEscape.cpp.i
+	C:\MinGW\bin\mingw32-gcc.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Source\BuildingEscape\BuildingEscape.cpp > CMakeFiles\PleaseIgnoreMe.dir\Source\BuildingEscape\BuildingEscape.cpp.i
 
 CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscape.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscape.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Source\BuildingEscape\BuildingEscape.cpp -o CMakeFiles\PleaseIgnoreMe.dir\Source\BuildingEscape\BuildingEscape.cpp.s
+	C:\MinGW\bin\mingw32-gcc.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Source\BuildingEscape\BuildingEscape.cpp -o CMakeFiles\PleaseIgnoreMe.dir\Source\BuildingEscape\BuildingEscape.cpp.s
 
 CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscape.cpp.obj.requires:
 
@@ -160,15 +160,15 @@ CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.c
 CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.obj: CMakeFiles/PleaseIgnoreMe.dir/includes_CXX.rsp
 CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.obj: ../Source/BuildingEscape/BuildingEscapeGameModeBase.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PleaseIgnoreMe.dir\Source\BuildingEscape\BuildingEscapeGameModeBase.cpp.obj -c C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Source\BuildingEscape\BuildingEscapeGameModeBase.cpp
+	C:\MinGW\bin\mingw32-gcc.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PleaseIgnoreMe.dir\Source\BuildingEscape\BuildingEscapeGameModeBase.cpp.obj -c C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Source\BuildingEscape\BuildingEscapeGameModeBase.cpp
 
 CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Source\BuildingEscape\BuildingEscapeGameModeBase.cpp > CMakeFiles\PleaseIgnoreMe.dir\Source\BuildingEscape\BuildingEscapeGameModeBase.cpp.i
+	C:\MinGW\bin\mingw32-gcc.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Source\BuildingEscape\BuildingEscapeGameModeBase.cpp > CMakeFiles\PleaseIgnoreMe.dir\Source\BuildingEscape\BuildingEscapeGameModeBase.cpp.i
 
 CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Source\BuildingEscape\BuildingEscapeGameModeBase.cpp -o CMakeFiles\PleaseIgnoreMe.dir\Source\BuildingEscape\BuildingEscapeGameModeBase.cpp.s
+	C:\MinGW\bin\mingw32-gcc.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Source\BuildingEscape\BuildingEscapeGameModeBase.cpp -o CMakeFiles\PleaseIgnoreMe.dir\Source\BuildingEscape\BuildingEscapeGameModeBase.cpp.s
 
 CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.obj.requires:
 
@@ -181,13 +181,39 @@ CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.c
 CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.obj.provides.build: CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.obj
 
 
+CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.obj: CMakeFiles/PleaseIgnoreMe.dir/flags.make
+CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.obj: CMakeFiles/PleaseIgnoreMe.dir/includes_CXX.rsp
+CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.obj: ../Source/BuildingEscape/PositionReporter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.obj"
+	C:\MinGW\bin\mingw32-gcc.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PleaseIgnoreMe.dir\Source\BuildingEscape\PositionReporter.cpp.obj -c C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Source\BuildingEscape\PositionReporter.cpp
+
+CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.i"
+	C:\MinGW\bin\mingw32-gcc.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Source\BuildingEscape\PositionReporter.cpp > CMakeFiles\PleaseIgnoreMe.dir\Source\BuildingEscape\PositionReporter.cpp.i
+
+CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.s"
+	C:\MinGW\bin\mingw32-gcc.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\Source\BuildingEscape\PositionReporter.cpp -o CMakeFiles\PleaseIgnoreMe.dir\Source\BuildingEscape\PositionReporter.cpp.s
+
+CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.obj.requires:
+
+.PHONY : CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.obj.requires
+
+CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.obj.provides: CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\PleaseIgnoreMe.dir\build.make CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.obj.provides.build
+.PHONY : CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.obj.provides
+
+CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.obj.provides.build: CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.obj
+
+
 # Object files for target PleaseIgnoreMe
 PleaseIgnoreMe_OBJECTS = \
 "CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSettings.cpp.obj" \
 "CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessModule.cpp.obj" \
 "CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.cpp.obj" \
 "CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscape.cpp.obj" \
-"CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.obj"
+"CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.obj" \
+"CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.obj"
 
 # External object files for target PleaseIgnoreMe
 PleaseIgnoreMe_EXTERNAL_OBJECTS =
@@ -197,11 +223,12 @@ PleaseIgnoreMe.exe: CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-
 PleaseIgnoreMe.exe: CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.cpp.obj
 PleaseIgnoreMe.exe: CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscape.cpp.obj
 PleaseIgnoreMe.exe: CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.obj
+PleaseIgnoreMe.exe: CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.obj
 PleaseIgnoreMe.exe: CMakeFiles/PleaseIgnoreMe.dir/build.make
 PleaseIgnoreMe.exe: CMakeFiles/PleaseIgnoreMe.dir/linklibs.rsp
 PleaseIgnoreMe.exe: CMakeFiles/PleaseIgnoreMe.dir/objects1.rsp
 PleaseIgnoreMe.exe: CMakeFiles/PleaseIgnoreMe.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable PleaseIgnoreMe.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable PleaseIgnoreMe.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\PleaseIgnoreMe.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -214,6 +241,7 @@ CMakeFiles/PleaseIgnoreMe.dir/requires: CMakeFiles/PleaseIgnoreMe.dir/Plugins/CL
 CMakeFiles/PleaseIgnoreMe.dir/requires: CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.cpp.obj.requires
 CMakeFiles/PleaseIgnoreMe.dir/requires: CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscape.cpp.obj.requires
 CMakeFiles/PleaseIgnoreMe.dir/requires: CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.obj.requires
+CMakeFiles/PleaseIgnoreMe.dir/requires: CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.obj.requires
 
 .PHONY : CMakeFiles/PleaseIgnoreMe.dir/requires
 
