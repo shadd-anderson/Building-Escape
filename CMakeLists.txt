@@ -1,6 +1,7 @@
 cmake_minimum_required (VERSION 2.6)
 project (UE4)
 set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_COMPILER "C:/MinGW/bin/mingw32-gcc.exe")
 
 include("C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/Intermediate/ProjectFiles/IncludeDirectories.cmake")
 include("C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/Intermediate/ProjectFiles/Definitions.cmake")

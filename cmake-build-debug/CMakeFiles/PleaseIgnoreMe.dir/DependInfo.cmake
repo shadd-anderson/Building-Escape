@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.cpp" "C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/cmake-build-debug/CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.cpp.obj"
   "C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/Source/BuildingEscape/BuildingEscape.cpp" "C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/cmake-build-debug/CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscape.cpp.obj"
   "C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp" "C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/cmake-build-debug/CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.obj"
+  "C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/Source/BuildingEscape/PositionReporter.cpp" "C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/cmake-build-debug/CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/PleaseIgnoreMe.dir/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.cpp.obj"
   "CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscape.cpp.obj"
   "CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.obj"
+  "CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/PositionReporter.cpp.obj"
   "PleaseIgnoreMe.pdb"
   "PleaseIgnoreMe.exe"
   "PleaseIgnoreMe.exe.manifest"
