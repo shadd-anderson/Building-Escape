@@ -5230,6 +5230,12 @@
 		<Unit filename="C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/Source/BuildingEscape/BuildingEscapeGameModeBase.h">
 			<Option target="PleaseIgnoreMe"/>
 		</Unit>
+		<Unit filename="C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/Source/BuildingEscape/OpenDoor.cpp">
+			<Option target="PleaseIgnoreMe"/>
+		</Unit>
+		<Unit filename="C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/Source/BuildingEscape/OpenDoor.h">
+			<Option target="PleaseIgnoreMe"/>
+		</Unit>
 		<Unit filename="C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/Source/BuildingEscape/PositionReporter.cpp">
 			<Option target="PleaseIgnoreMe"/>
 		</Unit>

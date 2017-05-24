@@ -361,6 +361,33 @@ Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.s:
 	$(MAKE) -f CMakeFiles\PleaseIgnoreMe.dir\build.make CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.s
 .PHONY : Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.s
 
+Source/BuildingEscape/OpenDoor.obj: Source/BuildingEscape/OpenDoor.cpp.obj
+
+.PHONY : Source/BuildingEscape/OpenDoor.obj
+
+# target to build an object file
+Source/BuildingEscape/OpenDoor.cpp.obj:
+	$(MAKE) -f CMakeFiles\PleaseIgnoreMe.dir\build.make CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/OpenDoor.cpp.obj
+.PHONY : Source/BuildingEscape/OpenDoor.cpp.obj
+
+Source/BuildingEscape/OpenDoor.i: Source/BuildingEscape/OpenDoor.cpp.i
+
+.PHONY : Source/BuildingEscape/OpenDoor.i
+
+# target to preprocess a source file
+Source/BuildingEscape/OpenDoor.cpp.i:
+	$(MAKE) -f CMakeFiles\PleaseIgnoreMe.dir\build.make CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/OpenDoor.cpp.i
+.PHONY : Source/BuildingEscape/OpenDoor.cpp.i
+
+Source/BuildingEscape/OpenDoor.s: Source/BuildingEscape/OpenDoor.cpp.s
+
+.PHONY : Source/BuildingEscape/OpenDoor.s
+
+# target to generate assembly for a file
+Source/BuildingEscape/OpenDoor.cpp.s:
+	$(MAKE) -f CMakeFiles\PleaseIgnoreMe.dir\build.make CMakeFiles/PleaseIgnoreMe.dir/Source/BuildingEscape/OpenDoor.cpp.s
+.PHONY : Source/BuildingEscape/OpenDoor.cpp.s
+
 Source/BuildingEscape/PositionReporter.obj: Source/BuildingEscape/PositionReporter.cpp.obj
 
 .PHONY : Source/BuildingEscape/PositionReporter.obj
@@ -420,6 +447,9 @@ help:
 	@echo ... Source/BuildingEscape/BuildingEscapeGameModeBase.obj
 	@echo ... Source/BuildingEscape/BuildingEscapeGameModeBase.i
 	@echo ... Source/BuildingEscape/BuildingEscapeGameModeBase.s
+	@echo ... Source/BuildingEscape/OpenDoor.obj
+	@echo ... Source/BuildingEscape/OpenDoor.i
+	@echo ... Source/BuildingEscape/OpenDoor.s
 	@echo ... Source/BuildingEscape/PositionReporter.obj
 	@echo ... Source/BuildingEscape/PositionReporter.i
 	@echo ... Source/BuildingEscape/PositionReporter.s
