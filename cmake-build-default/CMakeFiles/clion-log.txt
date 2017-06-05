@@ -1,0 +1,4 @@
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_BUILD_TYPE= -G "CodeBlocks - MinGW Makefiles" C:\Users\shadd\Unreal-Projects\Section_03\Building-Escape\BuildingEscape
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/shadd/Unreal-Projects/Section_03/Building-Escape/BuildingEscape/cmake-build-default
