@@ -327,6 +327,9 @@ C:\UnrealEngine-release\Engine\Source\Runtime\AudioMixer
 C:\UnrealEngine-release\Engine\Source\Editor\WorkspaceMenuStructure\Public
 C:\UnrealEngine-release\Engine\Intermediate\Build\Win64\UE4Editor\Inc\WorkspaceMenuStructure
 C:\UnrealEngine-release\Engine\Source\Editor\WorkspaceMenuStructure
+C:\UnrealEngine-release\Engine\Source\Developer\HotReload\Public
+C:\UnrealEngine-release\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HotReload
+C:\UnrealEngine-release\Engine\Source\Developer\HotReload
 C:\UnrealEngine-release\Engine\Source\Developer\SourceCodeAccess\Public
 C:\UnrealEngine-release\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SourceCodeAccess
 C:\UnrealEngine-release\Engine\Source\Developer\SourceCodeAccess

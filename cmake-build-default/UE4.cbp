@@ -148,6 +148,7 @@
 					<Add option="-DNETWORKREPLAYSTREAMING_API="/>
 					<Add option="-DAUDIOMIXER_API="/>
 					<Add option="-DWORKSPACEMENUSTRUCTURE_API="/>
+					<Add option="-DHOTRELOAD_API="/>
 					<Add option="-DSOURCECODEACCESS_API="/>
 					<Add option="-DDESKTOPPLATFORM_API="/>
 					<Add option="-DXMLPARSER_API="/>
@@ -481,6 +482,9 @@
 					<Add directory="C:/UnrealEngine-release/Engine/Source/Editor/WorkspaceMenuStructure/Public"/>
 					<Add directory="C:/UnrealEngine-release/Engine/Intermediate/Build/Win64/UE4Editor/Inc/WorkspaceMenuStructure"/>
 					<Add directory="C:/UnrealEngine-release/Engine/Source/Editor/WorkspaceMenuStructure"/>
+					<Add directory="C:/UnrealEngine-release/Engine/Source/Developer/HotReload/Public"/>
+					<Add directory="C:/UnrealEngine-release/Engine/Intermediate/Build/Win64/UE4Editor/Inc/HotReload"/>
+					<Add directory="C:/UnrealEngine-release/Engine/Source/Developer/HotReload"/>
 					<Add directory="C:/UnrealEngine-release/Engine/Source/Developer/SourceCodeAccess/Public"/>
 					<Add directory="C:/UnrealEngine-release/Engine/Intermediate/Build/Win64/UE4Editor/Inc/SourceCodeAccess"/>
 					<Add directory="C:/UnrealEngine-release/Engine/Source/Developer/SourceCodeAccess"/>
@@ -639,6 +643,7 @@
 					<Add option="-DNETWORKREPLAYSTREAMING_API="/>
 					<Add option="-DAUDIOMIXER_API="/>
 					<Add option="-DWORKSPACEMENUSTRUCTURE_API="/>
+					<Add option="-DHOTRELOAD_API="/>
 					<Add option="-DSOURCECODEACCESS_API="/>
 					<Add option="-DDESKTOPPLATFORM_API="/>
 					<Add option="-DXMLPARSER_API="/>
@@ -972,6 +977,9 @@
 					<Add directory="C:/UnrealEngine-release/Engine/Source/Editor/WorkspaceMenuStructure/Public"/>
 					<Add directory="C:/UnrealEngine-release/Engine/Intermediate/Build/Win64/UE4Editor/Inc/WorkspaceMenuStructure"/>
 					<Add directory="C:/UnrealEngine-release/Engine/Source/Editor/WorkspaceMenuStructure"/>
+					<Add directory="C:/UnrealEngine-release/Engine/Source/Developer/HotReload/Public"/>
+					<Add directory="C:/UnrealEngine-release/Engine/Intermediate/Build/Win64/UE4Editor/Inc/HotReload"/>
+					<Add directory="C:/UnrealEngine-release/Engine/Source/Developer/HotReload"/>
 					<Add directory="C:/UnrealEngine-release/Engine/Source/Developer/SourceCodeAccess/Public"/>
 					<Add directory="C:/UnrealEngine-release/Engine/Intermediate/Build/Win64/UE4Editor/Inc/SourceCodeAccess"/>
 					<Add directory="C:/UnrealEngine-release/Engine/Source/Developer/SourceCodeAccess"/>

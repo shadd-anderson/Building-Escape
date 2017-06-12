@@ -13,7 +13,8 @@ namespace UnrealBuildTool.Rules
 					"SourceCodeAccess",
 					"DesktopPlatform",
                     "LevelEditor",
-                    "XmlParser"
+                    "XmlParser",
+                    "HotReload",
 				}
 			);
 
@@ -30,7 +31,7 @@ namespace UnrealBuildTool.Rules
                     "WorkspaceMenuStructure",
                     "Projects",
                     "PropertyEditor",
-
+                    "HotReload",
                 });
 		}
 	}

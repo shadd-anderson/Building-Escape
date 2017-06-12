@@ -330,6 +330,9 @@
     <Include Path="C:\UnrealEngine-release\Engine\Source\Editor\WorkspaceMenuStructure\Public" />
     <Include Path="C:\UnrealEngine-release\Engine\Intermediate\Build\Win64\UE4Editor\Inc\WorkspaceMenuStructure" />
     <Include Path="C:\UnrealEngine-release\Engine\Source\Editor\WorkspaceMenuStructure" />
+    <Include Path="C:\UnrealEngine-release\Engine\Source\Developer\HotReload\Public" />
+    <Include Path="C:\UnrealEngine-release\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HotReload" />
+    <Include Path="C:\UnrealEngine-release\Engine\Source\Developer\HotReload" />
     <Include Path="C:\UnrealEngine-release\Engine\Source\Developer\SourceCodeAccess\Public" />
     <Include Path="C:\UnrealEngine-release\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SourceCodeAccess" />
     <Include Path="C:\UnrealEngine-release\Engine\Source\Developer\SourceCodeAccess" />
