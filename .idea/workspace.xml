@@ -21,10 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ac42044c-c0b2-4aa5-93a1-2037b0df484c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/DefaultPawn_BP.uasset" afterPath="$PROJECT_DIR$/Content/DefaultPawn_BP.uasset" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Source/BuildingEscape/Grabber.h" afterPath="$PROJECT_DIR$/Source/BuildingEscape/Grabber.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Source/BuildingEscape/OpenDoor.cpp" afterPath="$PROJECT_DIR$/Source/BuildingEscape/OpenDoor.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Source/BuildingEscape/OpenDoor.h" afterPath="$PROJECT_DIR$/Source/BuildingEscape/OpenDoor.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/NewMap.umap" afterPath="$PROJECT_DIR$/Content/NewMap.umap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/NewMap_BuiltData.uasset" afterPath="$PROJECT_DIR$/Content/NewMap_BuiltData.uasset" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/cmake-build-default/" />
@@ -484,16 +482,15 @@
       <workItem from="1497301838428" duration="4840000" />
       <workItem from="1497388500334" duration="5029000" />
       <workItem from="1497564270181" duration="2564000" />
-      <workItem from="1498079871263" duration="2570000" />
+      <workItem from="1498079871263" duration="3168000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54738000" />
+    <option name="totallyTimeSpent" value="55336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3267776" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
