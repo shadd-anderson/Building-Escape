@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac42044c-c0b2-4aa5-93a1-2037b0df484c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/DefaultPawn_BP.uasset" afterPath="$PROJECT_DIR$/Content/DefaultPawn_BP.uasset" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/NewMap.umap" afterPath="$PROJECT_DIR$/Content/NewMap.umap" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/NewMap_BuiltData.uasset" afterPath="$PROJECT_DIR$/Content/NewMap_BuiltData.uasset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Source/BuildingEscape/Grabber.cpp" afterPath="$PROJECT_DIR$/Source/BuildingEscape/Grabber.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Source/BuildingEscape/OpenDoor.cpp" afterPath="$PROJECT_DIR$/Source/BuildingEscape/OpenDoor.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Source/BuildingEscape/OpenDoor.h" afterPath="$PROJECT_DIR$/Source/BuildingEscape/OpenDoor.h" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/cmake-build-default/" />
@@ -39,12 +40,10 @@
       <file leaf-file-name="Grabber.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Source/BuildingEscape/Grabber.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="91" column="20" lean-forward="false" selection-start-line="91" selection-start-column="20" selection-end-line="91" selection-end-column="20" />
+            <state relative-caret-position="255">
+              <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
               <folding>
-                <element signature="e#599#1015#0" expanded="false" />
-                <element signature="e#1017#1317#0" expanded="false" />
-                <element signature="e#1673#1996#0" expanded="false" />
+                <element signature="e#1708#2031#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -53,8 +52,8 @@
       <file leaf-file-name="OpenDoor.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Source/BuildingEscape/OpenDoor.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="38" column="29" lean-forward="false" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+            <state relative-caret-position="413">
+              <caret line="41" column="27" lean-forward="false" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -63,8 +62,8 @@
       <file leaf-file-name="OpenDoor.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Source/BuildingEscape/OpenDoor.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="54" column="59" lean-forward="false" selection-start-line="54" selection-start-column="59" selection-end-line="54" selection-end-column="59" />
+            <state relative-caret-position="374">
+              <caret line="23" column="68" lean-forward="false" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -73,7 +72,7 @@
       <file leaf-file-name="Grabber.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Source/BuildingEscape/Grabber.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
+            <state relative-caret-position="192">
               <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
               <folding>
                 <element signature="e#94#132#0" expanded="true" />
@@ -101,8 +100,8 @@
         <option value="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PleaseIgnoreMe.dir/objects1.rsp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/Plugins/CLionSourceCodeAccess-4.15/Source/CLionSourceCodeAccess/CLionSourceCodeAccess.Build.cs" />
-        <option value="$PROJECT_DIR$/Source/BuildingEscape/Grabber.cpp" />
         <option value="$PROJECT_DIR$/Source/BuildingEscape/Grabber.h" />
+        <option value="$PROJECT_DIR$/Source/BuildingEscape/Grabber.cpp" />
         <option value="$PROJECT_DIR$/Source/BuildingEscape/OpenDoor.h" />
         <option value="$PROJECT_DIR$/Source/BuildingEscape/OpenDoor.cpp" />
       </list>
@@ -483,16 +482,17 @@
       <workItem from="1497388500334" duration="5029000" />
       <workItem from="1497564270181" duration="2564000" />
       <workItem from="1498079871263" duration="3168000" />
+      <workItem from="1498167348044" duration="2842000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55336000" />
+    <option name="totallyTimeSpent" value="58178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3267776" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33207262" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -521,7 +521,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -846,7 +846,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Source/BuildingEscape/Grabber.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
+        <state relative-caret-position="192">
           <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding>
             <element signature="e#94#132#0" expanded="true" />
@@ -856,28 +856,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Source/BuildingEscape/Grabber.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="91" column="20" lean-forward="false" selection-start-line="91" selection-start-column="20" selection-end-line="91" selection-end-column="20" />
+        <state relative-caret-position="255">
+          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
           <folding>
-            <element signature="e#599#1015#0" expanded="false" />
-            <element signature="e#1017#1317#0" expanded="false" />
-            <element signature="e#1673#1996#0" expanded="false" />
+            <element signature="e#1708#2031#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Source/BuildingEscape/OpenDoor.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="38" column="29" lean-forward="false" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+        <state relative-caret-position="413">
+          <caret line="41" column="27" lean-forward="false" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Source/BuildingEscape/OpenDoor.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="54" column="59" lean-forward="false" selection-start-line="54" selection-start-column="59" selection-end-line="54" selection-end-column="59" />
+        <state relative-caret-position="374">
+          <caret line="23" column="68" lean-forward="false" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
           <folding />
         </state>
       </provider>
